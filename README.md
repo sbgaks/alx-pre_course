@@ -1,1 +1,5 @@
-Introduction to git and github and command line interface
+#ALX-PRE_COURSE
+
+Walkthrough of git and github
+Practical exercises in the terminal 
+
